@@ -2,11 +2,8 @@
   
   # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
   
-  
   ***👨‍💻 About me***
-  
   <br/>
-  
   <div align="left">
    <p>
   I'm Ghislain Damou, a french Full Stack TypeScript developer.
@@ -20,10 +17,8 @@
   Feel free to explore my GitHub repositories and contributions. If you find anything interesting or have any questions, don't hesitate to reach out to me. Let's connect and collaborate!
    </p>   
   </div>
-  <br/>
 
   ***🛠 Tech Stack 🛠***
-  
   <br/>
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
@@ -42,7 +37,6 @@
   <br/>
   
   ***📫 Reach me on***
-  
   <br/>
 <p>
   <a target="_blank"href="https://linkedin.com/in/gdamou"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
